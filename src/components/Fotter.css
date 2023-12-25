@@ -1,0 +1,55 @@
+.git {
+    width: 50px;
+    height: 40px;
+    display: block;
+}
+
+.al2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.ln {
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+
+.tw {
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+
+.mail {
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+
+.ins {
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+.al{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.ap4 {
+    text-align: center;
+    font-size: 2rem;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.22);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.8px);
+    -webkit-backdrop-filter: blur(3.8px);
+    border: 1px solid rgba(255, 255, 255, 1);
+    margin-left: 550px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+}

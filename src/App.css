@@ -1,0 +1,10 @@
+.clc{
+    text-align: center;
+    border-color: blue;
+     color: rgba(68, 9, 243, 0.904);
+     font-size: 2rem;
+}
+*{
+    font-family: 'Libre Baskerville', serif;
+        font-family: 'Poppins', sans-serif;
+}
